@@ -1,5 +1,5 @@
-// import { Grid } from "@material-ui/core";
-import { Grid } from "@mui/material";
+import { Grid } from "@material-ui/core";
+// import { Grid } from "@mui/material";
 import { AgoraVideoPlayer } from "agora-rtc-react";
 import React, { useEffect, useState } from "react";
 
